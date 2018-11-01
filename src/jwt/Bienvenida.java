@@ -19,7 +19,7 @@ public class Bienvenida extends JFrame {
 	JLabel label1;
 
 	public Bienvenida() {
-
+		//hola
 		setLayout(null);
 		boton1 = new JButton("single player");
 		boton2 = new JButton("multiplayer");
